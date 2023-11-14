@@ -1,0 +1,239 @@
+  
+.body {
+    margin: 0px;
+  }
+  
+  .background-color {
+  background-color: white;
+  border-bottom: 1px solid grey;
+  width: 1440px;
+  }
+  
+  .logo {
+  margin-left: 142.52px;
+  margin-top: 20px;
+  display: inline-block;
+  width: 212px;
+  height: 75px;
+  }
+  
+  nav {
+      float: right;
+      margin-top: -12px;
+      margin-right: 115px;
+      
+  }
+  nav ul {
+      margin: 24px;
+      padding: 0px;
+      margin-top: 10px;
+   
+  }
+  nav li {
+      display: inline-block;
+      margin-top: 40px;
+      margin-left: 24px;
+  }
+
+  .header {
+    background-color: #F1F1f1;
+    width: 1440px;
+  }
+  
+  .main{
+    height: 1764px;
+    width: 1440px;
+  }
+  
+  .DPcontainer {
+    margin-left: 130px;
+    margin-top: 20px;
+  }
+.container {
+    margin: 15px;
+    width: 1144px;
+    height: 1700px;
+    background: #FFF;
+    display: inline-block;
+    align-items: flex-start;
+    border-radius: 50px 50px 50px 50px;
+}
+.Photo {
+  margin-left: 40px;
+}
+h1{
+    margin-left: 40px;
+    font-family: "Anonymous Pro";
+    font-size: 48px;
+    color: black;
+}
+h2 {
+    margin-left: 40px;
+    font-family: "Anonymous Pro";
+    font-size: 36px;
+    color: black;
+}
+h4 {
+
+  font-family: "Anonymous Pro";
+  font-size: 20px;
+  color: black;
+}
+p {
+  text-align-last: left;
+ width: 506px;
+  margin-left: 40px;
+  font-family: "Anonymous Pro"; 
+  font-size: 20px;
+  line-height: 28px;
+}
+.table {
+      float: right;
+      margin-top: -855px;
+      margin-right: 45px;
+}
+h3 {
+  font-family: "Anonymous Pro";
+  font-size: 30px;
+  color: black;
+}
+.text1 {
+  border-bottom: 1px solid grey;
+  width: 510px;
+  text-align: left;
+  margin-top: -7px;
+}
+.text2 {
+  margin-top: -44px;
+  text-align: right;
+  
+}
+.logo2{
+  margin-left: 142.52px;
+  margin-top: 40px;
+  display: inline-block;
+  width: 212px;
+  height: 100px;
+}
+.Fop {
+border-bottom: 1px solid grey;
+width: 1160px;
+margin-left: 140px;
+margin-top: -45px;
+}
+.background-color2 {
+  background-color: #121723;
+  width: 1440px;
+}
+.Flotters {
+margin-bottom: 0px;
+margin-top: 15px;
+margin-left: 617px;
+font-family: "Anonymous Pro";
+font-size: 20px;
+color: #A1A6B4; 
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+font-family: "Anonymous Pro";
+src: url(fonts/AnonymousPro-Regular.ttf);
+font-weight: 400;
+}
+@media screen and (max-width: 375px) {
+  .logo img {
+    display: block;
+   width: 90%;
+   margin-left: -50px;
+   margin-top: 0px;
+   width: 215px;
+    height: 64px;
+}
+nav {
+float: right;
+margin-right: 25px;
+margin-top: -40px;
+}
+.background-color {
+width: 375px;
+height: 156px;
+}
+.header {
+  width: 375px;
+}
+.main {
+  width: 960px;
+}
+.Photo {
+  width: 295px;
+  height: 172px;
+  margin-left: 25px;
+}
+.DPcontainer {
+margin-left: 0px;
+}
+.container {
+    margin: 15px;
+    width: 343px;
+    height: 1725px;
+}
+h1 {
+  font-size: 32px;
+  font-weight: 400;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 16px;
+}
+p {
+  width: 290px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.table {
+  margin-top: -20px;
+  margin-right: 20px;  
+}
+.text1 {
+  border-bottom: 1px solid grey;
+  width: 295px;
+  text-align: left;
+  margin-top: -7px;
+}
+.text2 {
+  margin-top: -35px;
+}
+.logo2 {
+  margin-left: 40px;
+  margin-top: 35px;
+  width: 300px;
+   height: 40px;
+}
+.Fop {
+ width: 343px;
+ margin-left: 15px;
+ margin-top: -60px;
+}
+
+.Flotters {
+ width: 184px;
+ height: 16px;
+ font-size: 16px;
+ margin-top: 20px;
+ margin-left: 100px;
+}
+.background-color2 {
+margin-top: 0px;
+width: 375px;
+height: 195px;
+}
+}
